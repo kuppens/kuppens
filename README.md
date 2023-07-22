@@ -8,9 +8,8 @@ Creator of [Guru Brain](https://gurubrain.streamlit.app/) 🧠
 
 Let's Talk!
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[Gmail📬](mailto:bmkuppens@gmail.com)
+[Linkedin💼](https://www.linkedin.com/in/bernardo-kuppens-326528220/)
 <!--
 **kuppens/kuppens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
