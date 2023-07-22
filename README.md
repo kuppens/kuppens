@@ -8,8 +8,8 @@ Creator of [Guru Brain](https://gurubrain.streamlit.app/) 🧠
 
 Let's Talk!
 
-<img alt=”Gmail” src=”	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img alt=”Gmail” src=”	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **kuppens/kuppens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
