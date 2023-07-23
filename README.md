@@ -4,12 +4,13 @@ I'm an AI enthusiast with a strong passion for leveraging technology to drive im
 
 While I'm particularly interested in projects that intersect with Governmental Audit, my enthusiasm for problem-solving through AI is not confined to the public sector. I'm always looking for ways to apply my skills to new and diverse projects, irrespective of the industry.
 
-### Creator of [Guru Brain](https://gurubrain.streamlit.app/) 🧠
+### Creator of <a href="https://gurubrain.streamlit.app/" target="_blank">Guru Brain</a> 🧠
 
 ### Let's Talk!
 
 [Gmail📬](mailto:bmkuppens@gmail.com)<br />
 [Linkedin💼](https://www.linkedin.com/in/bernardo-kuppens-326528220/)
+
 <!--
 **kuppens/kuppens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
